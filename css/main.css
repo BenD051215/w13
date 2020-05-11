@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    
+}
+
+@media screen and (min-width: 1024px) {
+    body {
+        max-width: 960px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+    }
